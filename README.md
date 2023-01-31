@@ -1,8 +1,8 @@
-![Github Banner](assets/github-banner.png)
+![Github Banner](assets/github-banner.jpg)
 
 ## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
 
-I'm Sumit, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/learnwithsumit). I Spend most of time coding outstanding projects or recording tutorials.
+I'm Tausif, a Front-end Web Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Student. I Spend most of time coding outstanding projects or practicing.
 
 :coffee: &emsp;Connect with me!
 
@@ -18,11 +18,8 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) [![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
-### Tutorials
 
-[![React Playlist](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react) [![Node Playlist](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://lwsbd.link/node) [![TypeScript Playlist](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://lwsbd.link/ts) [![JavaScript Playlist](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://lwsbd.link/startjs) [![Tailwind Playlist](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](https://lwsbd.link/tp)
-
-### My Projects & Ventures
+### My Valuable Projects & Ventures
 
 <table>
   <thead align="center">
@@ -53,33 +50,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
       <td>First ever & largest Digital Marketing Agency in Bangladesh</td>
       <td>120+ clients</td>
     </tr>
-    <tr>
-      <td>Prism</td>
-      <td>Complete Sales Automation & ERP Enterprise Solution for British American Tobacco Bangladesh</td>
-      <td>2.5k+ Distributors Nationwide</td>
-    </tr>
-    <tr>
-      <td>Unilever MARS</td>
-      <td>Activation Management Enterprise Solution for Unilever Bangladesh Ltd.</td>
-      <td>20 million+ Consumer Data Managed Already</td>
-    </tr>
-    <tr>
-      <td>Microzen</td>
-      <td>Microcredit Automation System with AI based Decision Support System</td>
-      <td>10 million+ Consumer Financial Data Managed Already</td>
-    </tr>
+    
+    
   </tbody>
 </table>
 
-### 📺 &emsp;Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Think in a Redux way - Batch 2 - React Redux course by Learn with Sumit](https://www.youtube.com/watch?v=xaSFoi3Vfsc)
-- [How to Enroll in Learn with Sumit Think in a Redux way - Batch 2 course](https://www.youtube.com/watch?v=1ih24JFDBhM)
-- [How to write a professional Resume - Resume tips for web developers](https://www.youtube.com/watch?v=Keuvud23JVk)
-- [Sumit Saha Interview on Nagorik TV - Live with a purpose](https://www.youtube.com/watch?v=4mWwZvoFpZc)
-- [২০২২ এ এসে কেন রিয়্যাক্ট শিখবেন - Should you learn react js in 2022 ?](https://www.youtube.com/watch?v=1eFczVsGLYk)
-<!-- YOUTUBE:END -->
 
 #### Business
 
@@ -100,14 +75,11 @@ I'm Sumit, a Full Stack Web Application Developer from <img src="assets/banglade
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Learn with Sumit Youtube Channel exists!
+I love sharing knowledge and practicing programming, hand to hand helping other developers, and that's why I Learn Web Development!
 
-#### What is Learn with Sumit?
+#### About of Tausif Ahmed
 
 "Learn with Sumit" is all about teaching web development skills and techniques in an efficient and practical manner. It has all the tools you need to learn the newest and most popular technologies to convert you from a no stack to full stack developer. I started "Learn with Sumit" in order to share my passion for web development and do what I truly love - teach and inspire new web developers.
 
-#### Github Stats
-
-![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=learnwithsumit&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
