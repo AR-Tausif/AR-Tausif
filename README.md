@@ -1,4 +1,4 @@
-![Email-signature-001-for-web](https://user-images.githubusercontent.com/120933222/215840496-96246f73-0fe8-4833-b8a2-cbd33f09fc8a.jpg)
+![Email signature copy](https://user-images.githubusercontent.com/120933222/215844786-0b407535-d5bd-4091-a02f-0952b42ce1b2.jpg)
 
 
 ## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
