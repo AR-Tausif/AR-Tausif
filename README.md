@@ -111,11 +111,3 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 ![learnwithsumit's github stats](https://github-readme-stats.vercel.app/api?username=learnwithsumit&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
-
-
-
-<!---
-AR-Tausif/AR-Tausif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
