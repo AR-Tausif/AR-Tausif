@@ -3,7 +3,7 @@
 
 ## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
 
-I'm Tausif, a Front-end Web Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Student at Shaistaganj Degree College [Youtube](https://youtube.com/learnwithsumit). I Spend most of time coding outstanding projects or research new technologies.
+I'm Tausif, a Front-end Web Developer from <img src="![image](https://user-images.githubusercontent.com/120933222/215844389-91907191-3538-47a0-9854-d4cca99d313d.png)" width="18"/> Bangladesh and Student at Shaistaganj Degree College [Youtube](https://youtube.com/learnwithsumit). I Spend most of time coding outstanding projects or research new technologies.
 
 :coffee: &emsp;Connect with me!
 
