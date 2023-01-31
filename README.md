@@ -1,13 +1,9 @@
 ![Email-signature-001-for-web](https://user-images.githubusercontent.com/120933222/215840496-96246f73-0fe8-4833-b8a2-cbd33f09fc8a.jpg)
 
 
-
-
-![Github Banner](assets/github-banner.png)
-
 ## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
 
-I'm Sumit, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://youtube.com/learnwithsumit). I Spend most of time coding outstanding projects or recording tutorials.
+I'm Tausif, a Front-end Web Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Student at Shaistaganj Degree College [Youtube](https://youtube.com/learnwithsumit). I Spend most of time coding outstanding projects or research new technologies.
 
 :coffee: &emsp;Connect with me!
 
