@@ -1,6 +1,6 @@
 ![Github Banner](assets/github-banner.jpg)
 
-## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
+## Hi there, I'm Tausif <img src="assets/hello.gif" width="28px" alt="hi">
 
 I'm Tausif, a Front-end Web Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Student. I Spend most of time coding outstanding projects or practicing.
 
