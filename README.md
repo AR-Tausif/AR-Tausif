@@ -31,14 +31,14 @@ I'm Tausif, a Front-end Web Developer from <img src="assets/bangladesh.png" widt
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://artausif.netlify.app.com" target="_blank">Assignment-03</a></td>
-      <td>First Project</td>
-      <td>100K+ active learners</td>
+      <td><a href="https://github.com/AR-Tausif/world-tour-api" target="_blank">World Tour</a></td>
+      <td>World tour api created with billionaires api data fethcing and displaying data with button clicking events</td>
+      <td>https://billionaires-tour-api.netlify.app/</td>
     </tr>
     <tr>
-      <td><a href="https://marketplace.v.com" target="_blank">Assignment-02</a></td>
-      <td>First try for programming hero</td>
-      <td>15K+ installs</td>
+      <td><a href="https://github.com/AR-Tausif/phone-hunter-website.git" target="_blank">Phone Hunter</a></td>
+      <td>Phone hunter website with create openai programming-hero Application Programe Interface</td>
+      <td>https://foamy-skin.surge.sh/</td>
     </tr>
     <tr>
       <td>Estate</td>
