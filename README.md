@@ -22,7 +22,7 @@ I'm Tausif, a Front-end Web Developer from <img src="assets/bangladesh.png" widt
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=AfnanFerdousi&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=AR-Tausif&theme=aura&fire=EB5454)](https://git.io/streak-stats" />
 </p>
 
 ### My Valuable Projects & Ventures
