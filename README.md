@@ -46,12 +46,11 @@ I'm Tausif, a Front-end Web Developer from <img src="assets/bangladesh.png" widt
       <td>Phone hunter website with create openai programming-hero Application Programe Interface</td>
       <td>https://foamy-skin.surge.sh/</td>
     </tr>
-    <tr>
-      <td>Estate</td>
-      <td>Start up largest edutech online plartform for bangladeshi students</td>
-      <td>65+ clients</td>
-    </tr>
-    
+     <tr>
+      <td><a href="https://github.com/AR-Tausif/school-management-web" target="_blank">Phone Hunter</a></td>
+      <td>Phone hunter website with create openai programming-hero Application Programe Interface</td>
+      <td><a href="https://github.com/AR-Tausif/school-management-web" target="_blank">Live Site</a></td>
+</tr>
     
     
   </tbody>
