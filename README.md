@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Tausif <img src="assets/hello.gif" width="28px" alt="hi">
 
-I'm Tausif, a Front-end Web Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Student. I Spend most of time coding outstanding projects or practicing.
+I'm Tausif, a Front-end Web Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh. I Spend most of time coding outstanding projects or practicing.
 
 :coffee: &emsp;Connect with me!
 
