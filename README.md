@@ -42,8 +42,8 @@ I'm Tausif, a Front-end Web Developer from <img src="assets/bangladesh.png" widt
       <td>https://billionaires-tour-api.netlify.app/</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AR-Tausif/phone-hunter-website.git" target="_blank">Phone Hunter</a></td>
-      <td>Phone hunter website with create openai programming-hero Application Programe Interface</td>
+      <td><a href="https://github.com/AR-Tausif/kiddos-baby" target="_blank">Kiddos Baby</a></td>
+      <td>Game cars, toy cars, buses,truckss and others kids variant products for toy lovers.</td>
       <td>https://foamy-skin.surge.sh/</td>
     </tr>
      <tr>
