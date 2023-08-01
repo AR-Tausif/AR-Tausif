@@ -39,12 +39,12 @@ I'm Tausif, a Front-end Web Developer from <img src="assets/bangladesh.png" widt
     <tr>
       <td><a href="https://github.com/AR-Tausif/car-showcase" target="_blank">World Tour</a></td>
       <td>This website ultimate planning Full stack project with trending language and framework such as NextJS with Typescript</td>
-      <td>Working.../</td>
+      <td>Working...</td>
     </tr>
     <tr>
       <td><a href="https://github.com/AR-Tausif/kiddos-baby" target="_blank">Kiddos Baby</a></td>
       <td>Game cars, toy cars, buses,truckss and others kids variant products for toy lovers.</td>
-     <a href="https://kiddos-baby.web.app/"><td>Live website</td><\a>
+    <td> <a href="https://kiddos-baby.web.app/">Live website</a></td>
     </tr>
      <tr>
       <td><a href="https://github.com/AR-Tausif/school-management-web" target="_blank">School Management Website</a></td>
