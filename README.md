@@ -44,7 +44,7 @@ I'm Tausif, a Front-end Web Developer from <img src="assets/bangladesh.png" widt
     <tr>
       <td><a href="https://github.com/AR-Tausif/kiddos-baby" target="_blank">Kiddos Baby</a></td>
       <td>Game cars, toy cars, buses,truckss and others kids variant products for toy lovers.</td>
-      <td>https://foamy-skin.surge.sh/</td>
+     <a href="https://kiddos-baby.web.app/"><td>Live website/td><\a>
     </tr>
      <tr>
       <td><a href="https://github.com/AR-Tausif/school-management-web" target="_blank">School Management Website</a></td>
