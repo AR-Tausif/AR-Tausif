@@ -30,9 +30,9 @@ I'm Tausif, a Front-end Web Developer from <img src="assets/bangladesh.png" widt
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Projects</b></td>
+      <td><b> Giithub Projects</b></td>
       <td><b>Description</b></td>
-      <td><b>Live link</b></td>
+      <td><b>Website Link</b></td>
     </tr>
   </thead>
   <tbody>
@@ -44,12 +44,12 @@ I'm Tausif, a Front-end Web Developer from <img src="assets/bangladesh.png" widt
     <tr>
       <td><a href="https://github.com/AR-Tausif/kiddos-baby" target="_blank">Kiddos Baby</a></td>
       <td>Game cars, toy cars, buses,truckss and others kids variant products for toy lovers.</td>
-    <td> <a href="https://kiddos-baby.web.app/">Live website</a></td>
+    <td> <a href="https://kiddos-baby.web.app/">Live Website</a></td>
     </tr>
      <tr>
       <td><a href="https://github.com/AR-Tausif/school-management-web" target="_blank">School Management Website</a></td>
-      <td>Phone hunter website with create openai programming-hero Application Programe Interface</td>
-      <td><a href="https://skill-curves.netlify.app/" target="_blank">Live Site</a></td>
+      <td>Skill Curve is the small school management web applicatin with react and bootstrap</td>
+      <td><a href="https://skill-curves.netlify.app/" target="_blank">Live website</a></td>
 </tr>
     
     
