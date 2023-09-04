@@ -70,7 +70,7 @@ I'm Tausif, a Front-end Web Developer from <img src="assets/bangladesh.png" widt
 
 <br >
 
-I love sharing knowledge and practicing programming, hand to hand helping other developers, and that's why I Learn Web Development!
+I love sharing knowledge and practicing programming, hand to hand helping other developers, and that is why I Learn Web Development!
 
 #### About of Tausif Ahmed
 
