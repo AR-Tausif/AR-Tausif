@@ -39,7 +39,7 @@ I'm Tausif, a Front-end Web Developer from <img src="assets/bangladesh.png" widt
     <tr>
       <td><a href="https://github.com/AR-Tausif/car-showcase" target="_blank">Velocity Wheels</a></td>
       <td>This website ultimate planning Full stack project with trending language and framework such as NextJS with Typescript</td>
-      <td>Working...</td>
+      <td>Up comming...</td>
     </tr>
     <tr>
       <td><a href="https://github.com/AR-Tausif/kiddos-baby" target="_blank">Kiddos Baby</a></td>
