@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Vatan+Agnihotri;I'm+a+Freelancer+Software+Engineer)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Tausif+Agnihotri;I'm+a+Freelancer+Software+Engineer)](https://git.io/typing-svg) -->
+
+
+<p align="center">
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=My%20Name%20is%20Tausif%20Ahmed;Frontend-eveloper;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 # 💫 About Me:
 
 I am a passionate frontend web developer with a solid foundation in HTML, CSS, JavaScript, and React. I am committed to creating responsive and user-friendly web applications and continuously improving my skills by learning the latest technologies in web development.
@@ -30,7 +35,7 @@ I enjoy staying up-to-date with new web development trends and technologies.
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://facebook.com/chat.tausif) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tausif-web/) [![Up Work](https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01d46da04af1b1112e?mp_source=share) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://facebook.com/chat.tausif) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tausif-web/) [![G-mail](https://img.shields.io/badge/Gmail-494949?style=flat&logo=Gmail)](mailto:tausif.ritu1@gmail.com) 
 
 ## 💻 Things I code with:
 <p align="center">
