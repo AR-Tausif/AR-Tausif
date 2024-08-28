@@ -34,7 +34,7 @@ I enjoy staying up-to-date with new web development trends and technologies.
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://facebook.com/chat.tausif) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tausif-web/) [![G-mail](https://img.shields.io/badge/Gmail-494949?style=flat&logo=Gmail)](mailto:tausif.ritu1@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tausif-web/) [![G-mail](https://img.shields.io/badge/Gmail-494949?style=flat&logo=Gmail)](mailto:tausif.ritu1@gmail.com) 
 
 ## 💻 Things I code with:
 <p align="center">
