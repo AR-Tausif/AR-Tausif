@@ -4,6 +4,8 @@
 <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=My%20Name%20is%20Tausif%20Ahmed;Frontend-Developer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
+
+<p align="center">Email: <b> tausif.ritu1@gmail.com </b> </p> 
 <h3>💫 About Me:</h3>
 I am a passionate frontend web developer with a solid foundation in HTML, CSS, JavaScript, and React. I am committed to creating responsive and user-friendly web applications and continuously improving my skills by learning the latest technologies in web development.  <br>  <br>
 
